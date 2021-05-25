@@ -55,6 +55,6 @@ GitHub Name: cvadillo
 
 email: carlos.vadillo@gmail.com
 
-video link: 
+video link: ![How to Use](https://youtu.be/4vjmDFBx6OI)
 
   
